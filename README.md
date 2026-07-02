@@ -1,2 +1,29 @@
-# Data_Analytics_Portfolio
-A collection of Data Analytics projects showcasing my skills in Excel, SQL, Power BI, Tableau, and Python. This repository includes internship projects, dashboards, and case studies completed as part of my learning journey and hands-on experience.
+# Data Analytics Portfolio
+
+Welcome to my Data Analytics Portfolio!
+
+This repository showcases my projects completed during my learning journey and internships.
+
+## Projects
+- Future Finders IPL Dashboard (Power BI)
+- Novitech Data Analytics Projects
+- NeoSkillz Data Analytics Projects
+- SQL Projects
+- Excel Dashboards
+- Tableau Dashboards
+- Python for Data Analytics
+- Power BI Dashoboards
+
+## Skills
+- Excel
+- SQL
+- Power BI
+- Tableau
+- Python
+- Data Visualization
+- Data Cleaning
+- Dashboard Development
+- Dashboard Storytelling
+- Data analysis 
+
+Thank you for visiting my portfolio!
