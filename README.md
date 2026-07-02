@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio!
+Welcome to my Data Analytics Portfolio! This repository contains data analytics projects completed through internships, training programs, and self-learning. It showcases my skills in data cleaning, analysis, visualization, and dashboard development using industry-standard tools.
 
 This repository showcases my projects completed during my learning journey and internships.
 
